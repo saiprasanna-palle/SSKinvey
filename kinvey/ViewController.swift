@@ -38,7 +38,7 @@ class ViewController: UIViewController {
                         cancelButtonTitle: NSLocalizedString("OK", comment: "OK")
                     )
                     alert.show()
-                    //Return
+              
                 }
             }
         )
